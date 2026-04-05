@@ -1,9 +1,7 @@
-<!--
+
 <div align="center">
   <img width="100%" alt="chapeu_palha " src="https://github.com/user-attachments/assets/df73e9ce-18d2-4717-b6a1-ffb8c94e5331" />
 </div>
-
-
 
 ## Sobre Mim
 
@@ -12,26 +10,13 @@
 from curosity import Lorena
 
 class AboutMe:
+    profile = { "name":"Lorena N Araújo",  "email":"lorenaaraujotech@gmail.com",  "role":"Computer Science Student" }
 
-profile =
+    education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "3"}
 
-{
-"name":"Lorena N Araújo",
-"email":"lorenaaraujotech@gmail.com",
-"role":"Computer Science Student"
-}
+    location = "Brazil"
 
-education =
-
-{
-program"" = "Computer Science",
-"university" = "GRAN Centro Universitario",
-period = "3"
-}
-
-location = "Brazil"
-
-focus =["Cybersecurity","Backend Development"]
+    focus =["Cybersecurity","Backend Development"]
 
 ```
 
@@ -39,25 +24,22 @@ focus =["Cybersecurity","Backend Development"]
 
 ```python
 
-class Skkils:
+class Skils:
 
-languages = ["Python"]
-tools = ["Git","Github","VS Code"]
-systems = []
-cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
-backend = ["FastAPI"]
-
+    languages = ["Python"]
+    tools = ["Git","Github","VS Code"]
+    systems = []
+    cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
+    backend = ["FastAPI"]
 ```
 
 ## Projetos
 
 ```python
-
 class Projects:
 
-current = ["InovaGRAN","JobMatch-AI"]
-goal = []
-
+    current = ["InovaGRAN","JobMatch-AI"]
+    goal = []
 ```
 
 ## Hobbies
@@ -66,13 +48,14 @@ goal = []
 
 class Hobbies:
 
-hobbies =["music","reading","podcasts","technology","movies,series and documentaries","gym"]
-
+    hobbies = ["music","reading","podcasts","technology","movies,series and" " documentaries","gym"]
 ```
 
 
+
+
  
-->>
+
 
 
 
