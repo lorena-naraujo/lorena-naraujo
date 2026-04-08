@@ -48,7 +48,7 @@ class Projects:
 
 class Hobbies:
 
-    hobbies = ["music","reading","podcasts","technology","movies,series and" " documentaries","gym"]
+    hobbies = ["music","reading","podcasts","technology","movies","series","documentaries","gym"]
 ```
 
 
