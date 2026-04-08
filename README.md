@@ -27,7 +27,7 @@ class AboutMe:
 class Skils:
 
     languages = ["Python"]
-    tools = ["Git","Github","VS Code"]
+    tools = ["Git","Github","PyCharm","VS Code"]
     systems = []
     cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
     backend = ["FastAPI"]
