@@ -10,7 +10,7 @@
 from curosity import Lorena
 
 class AboutMe:
-    profile = { "name":"Lorena N Araújo",  "email":"lorenaaraujotech@gmail.com",  "role":"Computer Science Student" }
+    profile = { "name":"Lorena N Araújo", "role":"Computer Science Student" }
 
     education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "3"}
 
