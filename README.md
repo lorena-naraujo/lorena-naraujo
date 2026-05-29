@@ -28,7 +28,7 @@ class Skils:
 
     languages = ["Python"]
     tools = ["Git","Github","PyCharm","VS Code"]
-    systems = [Linux]
+    systems = ["Linux"]
     cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
     backend = ["FastAPI"]
 ```
