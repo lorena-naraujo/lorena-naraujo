@@ -51,6 +51,16 @@ class Hobbies:
     hobbies = ["music","reading","podcasts","technology","movies","series","documentaries","gym"]
 ```
 
+<div align="center">
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-jardel13&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lorena-naraujo&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+
 
 
 
