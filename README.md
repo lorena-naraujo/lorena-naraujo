@@ -38,7 +38,7 @@ class Skils:
 ```python
 class Projects:
 
-    current = ["InovaGRAN","MySalesForce","JobMatch-AI"]
+    current = ["InovaGRAN","MySalesForce"]
     goal = []
 ```
 
