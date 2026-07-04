@@ -12,7 +12,7 @@ from curosity import Lorena
 class AboutMe:
     profile = { "name":"Lorena N Araújo", "role":"Computer Science Student" }
 
-    education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "3"}
+    education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "4}
 
     location = "Brazil"
 
@@ -38,7 +38,7 @@ class Skils:
 ```python
 class Projects:
 
-    current = ["InovaGRAN","MySalesForce"]
+    current = ["InovaGRAN","MySalesForce","Almoxerifado Compartilhado"]
     goal = []
 ```
 
