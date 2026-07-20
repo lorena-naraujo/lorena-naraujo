@@ -12,7 +12,7 @@ from curosity import Lorena
 class AboutMe:
     profile = { "name":"Lorena N Araújo", "role":"Computer Science Student" }
 
-    education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "4}
+    education = { "program": "Computer Science", "university": "GRAN Centro Universitario",  "period": "4"}
 
     location = "Brazil"
 
@@ -26,11 +26,11 @@ class AboutMe:
 
 class Skils:
 
-    languages = ["Python"]
-    tools = ["Git","Github","Zed"]
+    languages = ["Python","SQL"]
+    tools = ["Git","Github","Zed","Docker"]
     systems = ["Linux"]
     cybersegurity = ["Networking basics","Cybersecurity Fundamentals"]
-    backend = ["FastAPI"]
+    backend = ["FastAPI","PostgreSQL"]
 ```
 
 ## Projetos
