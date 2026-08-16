@@ -38,8 +38,8 @@ class Skils:
 ```python
 class Projects:
 
-    current = ["InovaGRAN","MySalesForce","Almoxerifado Compartilhado"]
-    goal = []
+    current = ["InovaGRAN","MySalesForce"]
+    goal = ["Almoxerifado Compartilhado"]
 ```
 
 ## Hobbies
