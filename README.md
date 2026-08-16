@@ -52,23 +52,12 @@ class Hobbies:
 ```
 
 
-<div align="center">
-
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=lorena-naraujo&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lorena-naraujo&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="195em" src="https://github-readme-sooty.vercel.app/api?username=lorena-naraujo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="195em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=lorena-naraujo&show_icons=true&theme=github_dark&hide_border=true&langs_count=6&include_private=true&hide=jupyter%20notebook" />
 </div>
-
-
-
-
-
-
- 
-
-
 
 
 
